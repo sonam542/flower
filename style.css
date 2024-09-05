@@ -7,8 +7,9 @@
 }
 
 :root {
-  --dark-color: #000;
+  --dark-color: #070707;
 }
+
 
 body {
   display: flex;
@@ -19,7 +20,9 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
-
+h1 {
+    color:white;
+}
 .night {
   position: fixed;
   left: 50%;
